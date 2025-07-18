@@ -1,4 +1,4 @@
-package com.yohanna.qrcode.generator.adapter;
+package com.yohanna.qrcode.generator.infraestructure;
 
 import com.yohanna.qrcode.generator.ports.StoragePort;
 import org.springframework.beans.factory.annotation.Value;
